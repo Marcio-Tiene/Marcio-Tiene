@@ -1,6 +1,6 @@
-### Hi there 👋<br><br>
+## Hi there 👋<br><br>
 
-## I'm **Marcio Tiene** who lives in Florianópolis/SC-Brazil <br><br>
+I'm **Marcio Tiene** who lives in Florianópolis/SC-Brazil <br><br>
 
 
 - ✈️ I'm inspired by challenges, always curious and willing to learn new things.
