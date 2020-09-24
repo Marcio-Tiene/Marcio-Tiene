@@ -1,4 +1,8 @@
 ### Hi there 👋
+- ✈️&nbsp;&nbsp;I am inspired by challenges, always curious and willing to learn new things.
+- 🔭 I’m currently working on Lionbridge as Map quality anality
+- 🌱 I’m currently learning web development using react.js, typescript, javascript, node, HTML5, CSS3.
+- 👯 I’m looking to work as web develper junior with hose technologies
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
