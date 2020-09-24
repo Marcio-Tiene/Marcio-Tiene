@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋<br><br>
+
+## I'm **Marcio Tiene** who lives in Florianópolis/SC-Brazil <br><br>
+
+
 - ✈️ I'm inspired by challenges, always curious and willing to learn new things.
 - 🔭 I’m currently working at Lionbridge as a Map quality analyst
 - 🌱 I’m currently learning web development using react.js, typescript, javascript, node, HTML5, CSS3.
