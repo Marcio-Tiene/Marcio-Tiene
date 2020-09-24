@@ -3,10 +3,13 @@
 I'm **Marcio Tiene** who lives in Florianópolis/SC-Brazil <br><br>
 
 
-- ✈️ I'm inspired by challenges, always curious and willing to learn new things.
-- 🔭 I’m currently working at Lionbridge as a Map quality analyst
-- 🌱 I’m currently learning web development using react.js, typescript, javascript, node, HTML5, CSS3.
-- 👯 I’m looking to work as a junior web develper with those technologies
+- ✈️ I'm inspired by challenges, always curious and willing to learn new things.<br>
+- 🔭 I’m currently working at Lionbridge as a Map quality analyst.<br>
+- 🌱 I’m currently learning web development using react.js, typescript, javascript, node, HTML5, CSS3.<br>
+- 👯 I’m looking to work as a junior web develper with those technologies.<br>
+
+
+To know more, follow me on  **[LinkedIn](https://www.linkedin.com/in/marcio-fornazari-tiene-940070193/)**<br><br>
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
