@@ -1,5 +1,7 @@
 ## Hello World! 👋
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Marcio-Tiene)
+
 I'm **Marcio Tiene** who lives in Florianópolis/SC-Brazil <br>
 
   Organized and meticulous.
