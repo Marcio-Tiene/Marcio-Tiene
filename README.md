@@ -36,10 +36,7 @@ or <br>
   
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Marcio-Tiene&hide=issues&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Tiene&layout=compact&theme=dark&langs_count=10)](https://github.com/Marcio-Tiene/github-readme-stats)
-  
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Tiene&layout=compact&theme=dark&langs_count=10)]
 
 
 <!--
