@@ -28,6 +28,7 @@ or <br>
 
 ### 💻 &nbsp;&nbsp;&nbsp;My personal study projects<br>
   
+  - **[C19 Radar](https://covid19-radar.vercel.app/)**<br>
   - **[VUTTR](https://vuttr-pi.vercel.app/)**<br>
   - **[Linx Code Challenge](https://linx-code-challenge.netlify.app/)**<br>
   - **[Beer swifty tool](https://github.com/Marcio-Tiene/beer-swifty-tool-frontend)**<br>
