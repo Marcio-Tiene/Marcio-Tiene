@@ -29,7 +29,7 @@ or <br>
 ### 💻 &nbsp;&nbsp;&nbsp;My personal study projects<br>
   
   - **[VUTTR](https://vuttr-pi.vercel.app/)**<br>
-  - **[Linx Code Challenge](https://gracious-einstein-0d8015.netlify.app/)**<br>
+  - **[Linx Code Challenge](https://linx-code-challenge.netlify.app/)**<br>
   - **[Beer swifty tool](https://github.com/Marcio-Tiene/beer-swifty-tool-frontend)**<br>
   - **[MarcioFlix](https://marciotflix.vercel.app/)**<br>
   - **[Ecoleta vanilla javascript/html/css](https://github.com/Marcio-Tiene/nlw)**<br>
