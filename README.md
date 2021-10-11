@@ -18,7 +18,7 @@ I'm **Marcio Tiene** who lives in Florianópolis/SC-Brazil <br>
 
 
 To know more, follow me on: <br>
-[![Linkedin: Marcio-Tiene](https://img.shields.io/badge/-Marcio%20Tiene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-fornazari-tiene-940070193/)](https://www.linkedin.com/in/marcio-fornazari-tiene-940070193/)<br>
+[![Linkedin: Marcio-Tiene](https://img.shields.io/badge/-Marcio%20Tiene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-tiene/)](https://www.linkedin.com/in/marcio-tiene/)<br>
 or <br>
 [![GitHub Marcio-Tiene](https://img.shields.io/github/followers/Marcio-tiene?label=follow&style=social)](https://github.com/Marcio-Tiene) <br>
 
